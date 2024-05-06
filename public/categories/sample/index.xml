@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on Ignacio Conde</title>
+    <link>http://localhost:1313/categories/sample/</link>
+    <description>Recent content in Sample on Ignacio Conde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ignacio Conde</copyright>
+    <lastBuildDate>Mon, 06 May 2024 02:09:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rhythm Game Editor</title>
+      <link>http://localhost:1313/projects/rhythm_game_editor/</link>
+      <pubDate>Mon, 06 May 2024 02:09:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rhythm_game_editor/</guid>
+      <description>This section contains info about BmsONE.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
