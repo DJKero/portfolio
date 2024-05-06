@@ -104,6 +104,13 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
+      "title": "Homepage",
+      "previewPath": "/",
+      "path": "[[workspace]]/content/",
+      "filePrefix": "",
+      "contentTypes": ["default"]
+    },
+    {
       "title": "Personal Projects",
       "previewPath": "/projects/personal-projects",
       "path": "[[workspace]]/content/projects/personal-projects",

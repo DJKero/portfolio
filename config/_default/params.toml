@@ -52,20 +52,20 @@ showWordCount = true
 showZenMode = false
 
 [list]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background
-  layoutBackgroundHeaderSpace = false
-  showBreadcrumbs = false
-  showSummary = true
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  showCards = true
-  groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true # only used when heroStyle equals background
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showSummary = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+showCards = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = false
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
