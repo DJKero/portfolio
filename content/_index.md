@@ -1,5 +1,5 @@
 ---
-date: 2024-05-06
+date: "May 06 2024"
 ---
 
 I am a dedicated Software Developer with 2 years of experience and a diverse skill set. I possess proficiency in Unity and Godot, complemented by a solid understanding of technologies such as C, C++, Rust, C# and .NET.  

@@ -44,6 +44,59 @@
           "type": "categories"
         }
       ]
+    },
+    {
+      "name": "project",
+      "pageBundle": true,
+      "allowAsSubContent": true,
+      "isSubContent": true,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Last modified date",
+          "name": "lastmod",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories",
+          "default": "Project"
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "hugo",
@@ -51,8 +104,18 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
-      "path": "[[workspace]]/content"
+      "title": "Personal Projects",
+      "previewPath": "/projects/personal-projects",
+      "path": "[[workspace]]/content/projects/personal-projects",
+      "filePrefix": "",
+      "contentTypes": ["project"]
+    },
+    {
+      "title": "Professional Projects",
+      "previewPath": "/projects/professional-projects",
+      "path": "[[workspace]]/content/projects/professional-projects",
+      "filePrefix": "",
+      "contentTypes": ["project"]
     }
   ]
 }
