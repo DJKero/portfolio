@@ -8,7 +8,7 @@ weight = 10
 
 [[main]]
 name = "Resume"
-url = "https://github.com/DJKero/djkero.github.io/assets/resume/resume.pdf"
+url = "https://github.com/DJKero/djkero.github.io/blob/master/assets/resume/resume.pdf"
 weight = 20
 
 [[main]]
