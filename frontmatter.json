@@ -42,6 +42,11 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     },
@@ -108,21 +113,27 @@
       "previewPath": "/",
       "path": "[[workspace]]/content/",
       "filePrefix": "",
-      "contentTypes": ["default"]
+      "contentTypes": [
+        "default"
+      ]
     },
     {
       "title": "Personal Projects",
       "previewPath": "/projects/personal-projects",
       "path": "[[workspace]]/content/projects/personal-projects",
       "filePrefix": "",
-      "contentTypes": ["project"]
+      "contentTypes": [
+        "project"
+      ]
     },
     {
       "title": "Professional Projects",
       "previewPath": "/projects/professional-projects",
       "path": "[[workspace]]/content/projects/professional-projects",
       "filePrefix": "",
-      "contentTypes": ["project"]
+      "contentTypes": [
+        "project"
+      ]
     }
   ]
 }

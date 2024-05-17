@@ -1,10 +1,9 @@
 ---
 title: Rhythm Game Editor
-date: 2024-05-06T19:54:16.444Z
+date: 2024-05-07T03:00:00.000Z
 categories:
     - Project
-type: project
-lastmod: 2024-05-06T20:17:08.867Z
+lastmod: 2024-05-07T03:00:00.000Z
 preview: feature*BmsONE.png
 showTableOfContents: true
 ---

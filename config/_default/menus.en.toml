@@ -1,27 +1,20 @@
 [[main]]
 none = "none"
 
-#[[main]]
-#name = "Interests"
-#pageRef = "interests"
-#weight = 1
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[main]]
+name = "Resume"
+url = "https://github.com/DJKero/djkero.github.io/assets/resume/resume.pdf"
+weight = 20
 
 [[main]]
 name = "Projects"
-pageRef = "personal-projects"
-weight = 2
-
-#[[main]]
-#name = "Professional Projects"
-#parent = "Projects"
-#pageRef = "professional-projects"
-#weight = 2
-
-#[[main]]
-#name = "Personal Projects"
-#parent = "Projects"
-#pageRef = "personal-projects"
-#weight = 3
+pageRef = "projects"
+weight = 30
 
 [[footer]]
 none = "none"

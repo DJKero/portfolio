@@ -13,4 +13,4 @@ dateFormat = "2 January 2006"
 name = "Ignacio Conde"
 headline = "Software Engineer"
 image = "kero.png"
-links = [ { github = "https://github.com/DJKero" }, { linkedin = "https://www.linkedin.com/in/ignaciomconde/" } ]
+links = [ { linkedin = "https://www.linkedin.com/in/ignaciomconde/" }, { github = "https://github.com/DJKero" } ]
